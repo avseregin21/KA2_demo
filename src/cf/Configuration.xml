@@ -36,10 +36,10 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>1С:Комплексная автоматизация 2</v8:content>
+					<v8:content>master</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>master</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_27</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
