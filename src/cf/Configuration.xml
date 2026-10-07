@@ -36,10 +36,10 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>dev01</v8:content>
+					<v8:content>fich3_1</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment>dev01</Comment>
+			<Comment>fich3_1 Ком 1</Comment>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_27</ConfigurationExtensionCompatibilityMode>
 			<DefaultRunMode>ManagedApplication</DefaultRunMode>
