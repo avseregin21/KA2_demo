@@ -54,3 +54,6 @@ target/
 # Приватные настройки
 .env
 .1c-devbase.bat
+
+# code-index
+.code-index/
